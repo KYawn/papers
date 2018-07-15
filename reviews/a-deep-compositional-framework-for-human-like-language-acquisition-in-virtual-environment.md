@@ -1,3 +1,7 @@
+---
+title: A Deep Compositional Framework for Human-like Language Acquisition in Virtual Environment
+permalink: /dcfhlave
+
 # A Deep Compositional Framework for Human-like Language Acquisition in Virtual Environment
 
 Haonan Yu, Haichao Zhang, Wei Xu, ArXiv, 2017
