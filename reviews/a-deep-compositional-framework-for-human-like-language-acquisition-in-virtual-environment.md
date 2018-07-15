@@ -1,6 +1,7 @@
 ---
 title: A Deep Compositional Framework for Human-like Language Acquisition in Virtual Environment
 permalink: /dcfhlave
+---
 
 # A Deep Compositional Framework for Human-like Language Acquisition in Virtual Environment
 
