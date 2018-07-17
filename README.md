@@ -1,8 +1,3 @@
----
-Title: Summaries of papers on deep learning
-Permalink: /
----
-
 Summaries of papers on deep learning.
 
 2018
