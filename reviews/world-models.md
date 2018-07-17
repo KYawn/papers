@@ -1,3 +1,8 @@
+---
+Title: World Models
+Permalink: /worldmodels
+---
+
 # World Models
 
 David Ha, Jürgen Schmidhuber, ArXiv, 2018
